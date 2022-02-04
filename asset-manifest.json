@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/robotfriendhook/static/css/main.25850605.chunk.css",
+    "main.js": "/robotfriendhook/static/js/main.ad065fd9.chunk.js",
+    "main.js.map": "/robotfriendhook/static/js/main.ad065fd9.chunk.js.map",
+    "runtime-main.js": "/robotfriendhook/static/js/runtime-main.c74c3b65.js",
+    "runtime-main.js.map": "/robotfriendhook/static/js/runtime-main.c74c3b65.js.map",
+    "static/css/2.3b2cfc2e.chunk.css": "/robotfriendhook/static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.f3376ae2.chunk.js": "/robotfriendhook/static/js/2.f3376ae2.chunk.js",
+    "static/js/2.f3376ae2.chunk.js.map": "/robotfriendhook/static/js/2.f3376ae2.chunk.js.map",
+    "static/js/3.ba14fdb8.chunk.js": "/robotfriendhook/static/js/3.ba14fdb8.chunk.js",
+    "static/js/3.ba14fdb8.chunk.js.map": "/robotfriendhook/static/js/3.ba14fdb8.chunk.js.map",
+    "index.html": "/robotfriendhook/index.html",
+    "precache-manifest.bc753cccdd816170bce7f3653df7cc6e.js": "/robotfriendhook/precache-manifest.bc753cccdd816170bce7f3653df7cc6e.js",
+    "service-worker.js": "/robotfriendhook/service-worker.js",
+    "static/css/2.3b2cfc2e.chunk.css.map": "/robotfriendhook/static/css/2.3b2cfc2e.chunk.css.map",
+    "static/css/main.25850605.chunk.css.map": "/robotfriendhook/static/css/main.25850605.chunk.css.map",
+    "static/js/2.f3376ae2.chunk.js.LICENSE.txt": "/robotfriendhook/static/js/2.f3376ae2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotfriendhook/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c74c3b65.js",
+    "static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.f3376ae2.chunk.js",
+    "static/css/main.25850605.chunk.css",
+    "static/js/main.ad065fd9.chunk.js"
+  ]
+}
